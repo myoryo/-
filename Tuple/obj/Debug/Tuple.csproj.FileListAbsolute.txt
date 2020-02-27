@@ -1,0 +1,24 @@
+C:\Users\thedj\source\repos\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\thedj\source\repos\Tuple\bin\Debug\Tuple.exe
+C:\Users\thedj\source\repos\Tuple\bin\Debug\Tuple.pdb
+C:\Users\thedj\source\repos\Tuple\obj\Debug\Tuple.csprojAssemblyReference.cache
+C:\Users\thedj\source\repos\Tuple\obj\Debug\Tuple.exe
+C:\Users\thedj\source\repos\Tuple\obj\Debug\Tuple.pdb
+D:\лабы по шарпам\3\TupleRep\Tuple\bin\Debug\Tuple.exe.config
+D:\лабы по шарпам\3\TupleRep\Tuple\bin\Debug\Tuple.exe
+D:\лабы по шарпам\3\TupleRep\Tuple\bin\Debug\Tuple.pdb
+D:\лабы по шарпам\3\TupleRep\Tuple\obj\Debug\Tuple.csprojAssemblyReference.cache
+D:\лабы по шарпам\3\TupleRep\Tuple\obj\Debug\Tuple.exe
+D:\лабы по шарпам\3\TupleRep\Tuple\obj\Debug\Tuple.pdb
+C:\Users\user\Documents\TupleRep\Tuple\obj\Debug\Tuple.csprojAssemblyReference.cache
+C:\Users\user\Documents\TupleRep\Tuple\obj\Debug\Tuple.exe
+C:\Users\user\Documents\TupleRep\Tuple\obj\Debug\Tuple.pdb
+C:\Users\user\Documents\TupleRep\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\user\Documents\TupleRep\Tuple\bin\Debug\Tuple.exe
+C:\Users\user\Documents\TupleRep\Tuple\bin\Debug\Tuple.pdb
+C:\Users\thedj\Desktop\TupleRep\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\thedj\Desktop\TupleRep\Tuple\bin\Debug\Tuple.exe
+C:\Users\thedj\Desktop\TupleRep\Tuple\bin\Debug\Tuple.pdb
+C:\Users\thedj\Desktop\TupleRep\Tuple\obj\Debug\Tuple.csprojAssemblyReference.cache
+C:\Users\thedj\Desktop\TupleRep\Tuple\obj\Debug\Tuple.exe
+C:\Users\thedj\Desktop\TupleRep\Tuple\obj\Debug\Tuple.pdb
